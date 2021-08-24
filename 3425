@@ -9,7 +9,7 @@ for n in range(0,n):
 a.sort()
 print(a[0])
 print(a[n])
-for n in range(0,n):
+for n in range(0,n+1):
     if a[n] % 2 == 0:
         b = b + [a[n]]
 c = (len(b)/len(a)) * 100
