@@ -1,0 +1,7 @@
+dias = input()
+dias = int(dias)
+anos = int(dias/365)
+dias = dias-(anos*365)
+sem = int(dias/7)
+dias = dias-(sem*7)
+print(anos,'ano(s),',sem,'semana(s)','e',dias,'dia(s)')
