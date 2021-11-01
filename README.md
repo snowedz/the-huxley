@@ -10,8 +10,8 @@ There is no need to install software. But if you want to quickly test each code 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Contributors
-- Eduardo Neves (https://github.com/snowedz)
-- Lucas Brabec (https://github.com/Brabec)
+- [Eduardo Neves](https://github.com/snowedz)
+- [Lucas Brabec](https://github.com/Brabec)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
