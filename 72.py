@@ -1,0 +1,5 @@
+x = int(input())
+n = input()
+l = n.split()
+l.reverse()
+print(*l)

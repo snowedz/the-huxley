@@ -5,7 +5,7 @@ if A == 0:
     print("NEESG")
 else:
     Disc = B ** 2 - 4 * A * C
-    if Disc <0:
+    if Disc < 0:
         print("NRR")
     else:
         Raiz1 = (-B + (Disc ** 0.5)) / (2 * A)

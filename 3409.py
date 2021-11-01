@@ -1,0 +1,18 @@
+A = ('Dentro')
+B = ('Fora')
+ponto1 = input()
+x1, y1 = ponto1.split()
+x1 = float(x1)
+y1 = float(y1)
+ponto2 = input()
+x2, y2 = ponto2.split()
+x2 = float(x2)
+y2 = float(y2)
+ponto3 = input()
+x3, y3 = ponto3.split()
+x3 = float(x3)
+y3 = float(y3)
+if x1 < x3 or x1 > x2 and y1 < y2 or y1 < y3:
+    print(A)
+else:
+    print(B)
